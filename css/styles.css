@@ -37,3 +37,11 @@ body{
 .navbar-dark {
      background-color: #052c3e;
 }
+
+.bg-petr {
+    background-color:#084d6e;
+}
+
+html {
+    scroll-behavior: smooth;
+}
